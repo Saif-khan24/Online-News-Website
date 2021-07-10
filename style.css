@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+   
+   .main{
+    background-color: black;
+   }
+
+   h3{
+       color: white;
+   }
+
+   .navbar.navbar-expand-lg.navbar-dark.bg-dark{
+    background-color: yellow !important;
+   }
+
+   a.navbar-brand{
+       font-weight: bold;
+       color: black !important;
+    }
+    
+    a.nav-link.active{
+        color: black !important;
+   }
+
+   .footer{
+     /* background-color: #0E2431; */
+     background-color: yellow;
+     color: #fff;
+     text-align: center;
+     font-weight: 600;
+     padding: 0.2rem 0;
+   }
+   .footer__title{
+       color: black;
+     margin-top: 0.8rem;
+   }
+   .footer__social{
+     margin-top: 1rem;
+     margin-bottom: 0.5rem;
+   }
+   .footer__icon{
+     font-size: 1.5rem;
+    color: black;
+    /* color: #fff; */
+     margin: 0 1rem;
+   }
