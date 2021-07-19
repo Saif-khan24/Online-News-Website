@@ -1,5 +1,5 @@
 //initialize the variables
-let source = 'the-times-of-india'; // 'bbc-news'
+let source =  'bbc-news'; // 'the-times-of-india';
 let apikey = 'a75ce769139341d19a8698011c238956';
 
 //grab the news ccontainer
